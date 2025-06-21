@@ -11,10 +11,11 @@
 
 ## 🛠️ Công nghệ sử dụng
 
-- HTML, CSS, JavaScript
-- [React.js](https://reactjs.org/) / [Vue.js](https://vuejs.org/) *(chọn cái bạn dùng)*
-- Axios để giao tiếp API
-- Bootstrap / Tailwind *(nếu có)*
+- Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJS (https://reactjs.org/)
+- Backend: Flask để giao tiếp API
+- Database: MongoDB
+- Cloud for Python - Flask: render.com & cloud for UI: vercel.com
+- Code Management: Git 
 
 ## ⚙️ Cài đặt và chạy dự án
 
