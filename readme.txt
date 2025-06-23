@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection – Frontend
+# 🌿 Plant Disease Detection – Backend
 
 Đây là giao diện người dùng cho hệ thống phát hiện bệnh trên cây trồng. Người dùng có thể tải ảnh cây, nhận kết quả phân tích và xem đề xuất hướng xử lý bệnh từ hệ thống AI.
 
