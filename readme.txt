@@ -1,31 +1,31 @@
 🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫
-🐫# 🌿 Plant Disease Detection – Backend                                                                                                                                      
-🐫                                                                                                                                                                             
-🐫Đây là giao diện người dùng cho hệ thống phát hiện bệnh trên cây trồng. Người dùng có thể tải ảnh cây, nhận kết quả phân tích và xem đề xuất hướng xử lý bệnh từ hệ thống AI.
-🐫                                                                                                                                                                             
-🐫## 🚀 Chức năng chính                                                                                                                                                       
-🐫                                                                                                                                                                              
-🐫- Tải ảnh cây trồng cần kiểm tra
-🐫- Gửi ảnh đến server để phân tích
-🐫- Hiển thị kết quả bệnh và mô tả
-🐫- Gợi ý cách xử lý hoặc liên hệ chuyên gia nông nghiệp
+🐫# 🌿 Plant Disease Detection – Backend
 🐫
-🐫## 🛠️ Công nghệ sử dụng
+🐫This is the user interface for the plant disease detection system. Users can upload plant images, receive AI-generated diagnoses, and view treatment suggestions.
+🐫
+🐫## 🚀 Key Features
+🐫
+🐫- Upload images of plants for analysis
+🐫- Send images to the server for processing
+🐫- Display disease results and descriptions
+🐫- Suggest treatment methods or allow users to contact agricultural experts
+🐫
+🐫## 🛠️ Technologies Used
 🐫
 🐫- Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJS (https://reactjs.org/)
-🐫- Backend: Flask để giao tiếp API
+🐫- Backend: Flask for API communication
 🐫- Database: MongoDB
-🐫- Cloud for Python - Flask: render.com & cloud for UI: vercel.com
-🐫- Code Management: Git 
+🐫- Cloud for Python - Flask: render.com
+🐫- Cloud for UI: vercel.com
+🐫- Code Management: Git
 🐫
-🐫## ⚙️ Cài đặt và chạy dự án
+🐫## ⚙️ Installation and Run Instructions
 🐫
-🐫```bash
-🐫# Cài đặt package
-🐫npm install
-🐫
-🐫# Chạy ứng dụng frontend
-🐫npm start
+🐫bash 
+🐫# Install packages 
+🐫npm install 🐫 
+🐫# Run the frontend app 
+🐫npm start 🐫
 🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫🐫
 ㅤㅤㅤ     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣾⣿⣿⣿⣿⣶⣷⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
